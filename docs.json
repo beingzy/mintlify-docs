@@ -59,6 +59,18 @@
                 ]
               },
               {
+                "group": "Products",
+                "pages": [
+                  "en/products/data-lineage"
+                ]
+              },
+              {
+                "group": "Ecosystem Integration",
+                "pages": [
+                  "en/ecosystem-integration/adopting-erc-8004-x402-essentials"
+                ]
+              },
+              {
                 "group": "Protocol Token ($XNY)",
                 "pages": [
                   "en/protocol-token/tokenomics",
@@ -71,6 +83,17 @@
                 "pages": [
                   "en/community/roadmap",
                   "en/community/history"
+                ]
+              }
+            ]
+          },
+          {
+            "tab": "Changelog",
+            "groups": [
+              {
+                "group": "2025",
+                "pages": [
+                  "en/changelog/2025"
                 ]
               }
             ]
@@ -118,6 +141,13 @@
                 ]
               },
               {
+                "group": "产品 (Products)",
+                "pages": [
+                  "cn/products/data-lineage",
+                  "cn/products/codatta-did"
+                ]
+              },
+              {
                 "group": "协议代币 ($XNY)",
                 "pages": [
                   "cn/protocol-token/tokenomics",
@@ -130,6 +160,17 @@
                 "pages": [
                   "cn/community/roadmap",
                   "cn/community/history"
+                ]
+              }
+            ]
+          },
+          {
+            "tab": "更新日志",
+            "groups": [
+              {
+                "group": "2025",
+                "pages": [
+                  "cn/changelog/2025"
                 ]
               }
             ]
@@ -177,6 +218,12 @@
                 ]
               },
               {
+                "group": "프로덕트",
+                "pages": [
+                  "ko/products/data-lineage"
+                ]
+              },
+              {
                 "group": "프로토콜 토큰 ($XNY)",
                 "pages": [
                   "ko/protocol-token/tokenomics",
@@ -189,6 +236,17 @@
                 "pages": [
                   "ko/community/roadmap",
                   "ko/community/history"
+                ]
+              }
+            ]
+          },
+          {
+            "tab": "변경 로그",
+            "groups": [
+              {
+                "group": "2025",
+                "pages": [
+                  "ko/changelog/2025"
                 ]
               }
             ]
